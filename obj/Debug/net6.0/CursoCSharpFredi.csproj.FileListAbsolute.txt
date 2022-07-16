@@ -1,0 +1,15 @@
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\bin\Debug\net6.0\CursoCSharpFredi.exe
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\bin\Debug\net6.0\CursoCSharpFredi.deps.json
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\bin\Debug\net6.0\CursoCSharpFredi.runtimeconfig.json
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\bin\Debug\net6.0\CursoCSharpFredi.dll
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\bin\Debug\net6.0\CursoCSharpFredi.pdb
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\obj\Debug\net6.0\CursoCSharpFredi.csproj.AssemblyReference.cache
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\obj\Debug\net6.0\CursoCSharpFredi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\obj\Debug\net6.0\CursoCSharpFredi.AssemblyInfoInputs.cache
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\obj\Debug\net6.0\CursoCSharpFredi.AssemblyInfo.cs
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\obj\Debug\net6.0\CursoCSharpFredi.csproj.CoreCompileInputs.cache
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\obj\Debug\net6.0\CursoCSharpFredi.dll
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\obj\Debug\net6.0\refint\CursoCSharpFredi.dll
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\obj\Debug\net6.0\CursoCSharpFredi.pdb
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\obj\Debug\net6.0\CursoCSharpFredi.genruntimeconfig.cache
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\obj\Debug\net6.0\ref\CursoCSharpFredi.dll
