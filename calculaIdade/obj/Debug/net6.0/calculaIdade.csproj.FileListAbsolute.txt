@@ -1,0 +1,15 @@
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\calculaIdade\bin\Debug\net6.0\calculaIdade.exe
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\calculaIdade\bin\Debug\net6.0\calculaIdade.deps.json
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\calculaIdade\bin\Debug\net6.0\calculaIdade.runtimeconfig.json
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\calculaIdade\bin\Debug\net6.0\calculaIdade.dll
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\calculaIdade\bin\Debug\net6.0\calculaIdade.pdb
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\calculaIdade\obj\Debug\net6.0\calculaIdade.csproj.AssemblyReference.cache
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\calculaIdade\obj\Debug\net6.0\calculaIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\calculaIdade\obj\Debug\net6.0\calculaIdade.AssemblyInfoInputs.cache
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\calculaIdade\obj\Debug\net6.0\calculaIdade.AssemblyInfo.cs
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\calculaIdade\obj\Debug\net6.0\calculaIdade.csproj.CoreCompileInputs.cache
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\calculaIdade\obj\Debug\net6.0\calculaIdade.dll
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\calculaIdade\obj\Debug\net6.0\refint\calculaIdade.dll
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\calculaIdade\obj\Debug\net6.0\calculaIdade.pdb
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\calculaIdade\obj\Debug\net6.0\calculaIdade.genruntimeconfig.cache
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\calculaIdade\obj\Debug\net6.0\ref\calculaIdade.dll
