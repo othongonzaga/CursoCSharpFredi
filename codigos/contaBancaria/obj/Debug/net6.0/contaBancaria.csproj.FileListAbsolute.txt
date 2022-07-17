@@ -1,0 +1,15 @@
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\codigos\contaBancaria\bin\Debug\net6.0\contaBancaria.exe
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\codigos\contaBancaria\bin\Debug\net6.0\contaBancaria.deps.json
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\codigos\contaBancaria\bin\Debug\net6.0\contaBancaria.runtimeconfig.json
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\codigos\contaBancaria\bin\Debug\net6.0\contaBancaria.dll
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\codigos\contaBancaria\bin\Debug\net6.0\contaBancaria.pdb
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\codigos\contaBancaria\obj\Debug\net6.0\contaBancaria.csproj.AssemblyReference.cache
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\codigos\contaBancaria\obj\Debug\net6.0\contaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\codigos\contaBancaria\obj\Debug\net6.0\contaBancaria.AssemblyInfoInputs.cache
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\codigos\contaBancaria\obj\Debug\net6.0\contaBancaria.AssemblyInfo.cs
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\codigos\contaBancaria\obj\Debug\net6.0\contaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\codigos\contaBancaria\obj\Debug\net6.0\contaBancaria.dll
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\codigos\contaBancaria\obj\Debug\net6.0\refint\contaBancaria.dll
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\codigos\contaBancaria\obj\Debug\net6.0\contaBancaria.pdb
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\codigos\contaBancaria\obj\Debug\net6.0\contaBancaria.genruntimeconfig.cache
+C:\Users\othon\OneDrive\Área de Trabalho\programaçao\projetos_github\CursoCSharpFredi\codigos\contaBancaria\obj\Debug\net6.0\ref\contaBancaria.dll
